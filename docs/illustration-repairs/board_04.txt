@@ -1,0 +1,5 @@
+Edit the attached educational atlas. Preserve its exact 4 by 4 grid, square image size, thin white gutters, illustration style, and all fifteen panels OTHER THAN the TOP LEFT panel. Keep the other fifteen scenes unchanged and in the same positions.
+
+Replace ONLY the TOP LEFT panel (row 1, column 1) to clearly teach "let someone down": a very disappointed teenage boy is waiting ALONE at a cafe table, with an EMPTY chair opposite him and a cold untouched drink. Above him, a small clearly contained memory bubble shows his friend making a promise to meet him (the two friends shaking hands). The main scene must be the disappointed teen alone with the empty chair; the handshake must appear only inside the small memory bubble. This is a broken promise, not a scene of two friends happily meeting.
+
+The replacement must fit entirely inside the original top-left square. No new panel borders inside that square, no extra grid columns/rows, no captions or labels. Return the full atlas with exactly sixteen equal cells.

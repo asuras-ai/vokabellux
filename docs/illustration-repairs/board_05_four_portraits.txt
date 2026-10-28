@@ -1,0 +1,19 @@
+Edit ONLY the two family-tree cells of this 4x4 vocabulary atlas: row 3 column 3, and row 4 column 1. Preserve the other fourteen cells, their content, their style, and the exact 4x4 outer atlas layout.
+
+IMPORTANT: each replacement family diagram must contain FOUR portraits, not three. Use a simple 2x2 arrangement of portraits inside each cell so ALL FOUR fit clearly. These are framed small face portraits connected by arrows, not extra comic panels. Do not omit the middle-aged parent.
+
+Row 3 column 3 (great-grandfather):
+- Top-left portrait: man aged 90 with grey hair and moustache, GOLD frame.
+- Top-right portrait: his daughter aged 65, grey-haired grandmother.
+- Bottom-right portrait: her daughter aged 40, brown-haired MOTHER.
+- Bottom-left portrait: her teenage son aged 15, brown-haired TEEN.
+Connect top-left -> top-right -> bottom-right -> bottom-left. EXACTLY FOUR faces in this cell. Highlight only the great-grandfather's top-left frame. This chain represents great-grandfather, grandmother, mother, me.
+
+Row 4 column 1 (great-grandmother):
+- Top-left portrait: woman aged 90 with white hair and glasses, GOLD frame.
+- Top-right portrait: her son aged 65, grey-haired grandfather.
+- Bottom-right portrait: his daughter aged 40, brown-haired MOTHER.
+- Bottom-left portrait: her teenage daughter aged 15, brown-haired TEEN.
+Connect top-left -> top-right -> bottom-right -> bottom-left. EXACTLY FOUR faces in this cell. Highlight only the great-grandmother's top-left frame. This chain represents great-grandmother, grandfather, mother, me.
+
+Make the faces and connection arrows clearly legible. If helpful, tiny English labels "90", "65", "40", "15" may appear under the respective portraits. Each of the two replacement cells MUST show four separate age groups. Return the FULL square atlas with exactly sixteen equal vocabulary cells. No other changes.

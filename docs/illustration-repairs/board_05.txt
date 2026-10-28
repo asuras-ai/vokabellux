@@ -1,0 +1,7 @@
+Edit the attached educational atlas. Preserve its exact 4 by 4 grid, square image size, white gutters, illustration style, and all fourteen panels OTHER THAN row 3 column 3 and row 4 column 1. Keep the other fourteen scenes unchanged and in their original positions.
+
+Replace row 3 column 3 (the great-grandfather cell): show a clean simple family diagram consisting of EXACTLY FOUR portraits, one beneath another, with one unbroken parent-to-child connecting line down the middle. From TOP to BOTTOM: a very elderly man aged about 90 (great-grandfather), his daughter aged about 65 (grandmother), her daughter aged about 40 (mother), and her teenage son aged about 15. Highlight ONLY the TOP portrait with a warm golden outline. FOUR GENERATIONS, not three. Do not add siblings, branching, or extra portraits. Each portrait can be small to fit all four levels clearly.
+
+Replace row 4 column 1 (the great-grandmother cell): use the same simple FOUR-portrait vertical diagram, from TOP to BOTTOM: a very elderly woman aged about 90 (great-grandmother), her son aged about 65 (grandfather), his daughter aged about 40 (mother), and her teenage daughter aged about 15. Highlight ONLY the TOP portrait with a warm golden outline. FOUR GENERATIONS, not three. Do not add siblings, branching, or extra portraits.
+
+Keep each diagram completely inside its original cell. No words or labels are required. No extra grid columns or rows. Return the full square atlas with exactly sixteen equal cells.

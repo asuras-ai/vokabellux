@@ -1,0 +1,737 @@
+{
+  "provider": "Google Gemini API",
+  "generations": [
+    {
+      "board": 2,
+      "model": "gemini-nano-banana-2.1",
+      "image_size": "2K",
+      "created_at": "2026-10-28T08:47:50.782828+00:00",
+      "output": "app/src/main/assets/images/board_02.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "9a1b51fdfe699365e6799756179f4cee6369a7cd24a0d05a8f4f421969f623c6",
+      "reference": "app/src/main/assets/images/board_01.png",
+      "reference_sha256": "9edf3dc780955ec39925ba144fe9eaa06dcd233da3f4079f12681e1bd2e7a47c",
+      "prompt": "The attached image is a STYLE AND GRID REFERENCE ONLY. Match its expressive teen characters, editorial anime illustration, lighting, colours, and regular four-by-four panel layout. Create NEW content for the sixteen scenes below; do not repeat the reference scenes. The app crops each cell independently: put vertical gutters at exactly 25%, 50%, and 75% of the image width and horizontal gutters at exactly 25%, 50%, and 75% of the height. Keep every scene inside its own equal square. No title, captions, panel numbers, or outer margins. Every requested scene must be identifiable.\n\nUse case: scientific-educational. Asset: single educational storyboard atlas, exactly 4 columns by 4 rows, exactly 16 equal square panels with thin white gutters, no outer margin. Illustrated English learning scenes for teenagers. Consistent expressive editorial manga-inspired illustration, warm cream light, teal, indigo, coral accents, diverse teen characters. Every panel is its own separate clear scene. No readable words or labels, no watermark; numbers only where needed in clocks or historical dates. Follow the exact row-major order (left to right, top to bottom):\n1. Teen frozen in disbelief before an enormous hole in pavement.\n2. Teen unable to reach kitten high in tree, hands out in helpless gesture.\n3. Teen sitting beside skateboard holding grazed knee.\n4. Teen alone on school bench while distant friends gather.\n5. Teen hiding slightly behind friend at gathering, timid expression.\n6. Teen recoiling from burnt black dinner.\n7. Teen recoiling in terror from big spider on wall.\n8. Teen frowning at haircut in mirror.\n9. Teen tearfully holding pieces of favourite mug.\n10. Teen guiding new student through school corridor pointing out classrooms.\n11. Family imagining future home in thought bubble showing house and garden.\n12. Teen looking up an unfamiliar word in dictionary, finger tracing entry.\n13. Blue paint tin pouring a vivid blue swatch beside other paint tins.\n14. Two teens greeting across adjacent house garden fences.\n15. Overhead town square with fountain exactly in middle.\n16. Teen hugging mother warmly.\nKeep ALL 16 panels exactly equal size. Strong clear visual meaning, detailed enough to understand context, clean compositions, expressive faces and gestures.",
+      "usage": {
+        "total_tokens": 4913,
+        "total_input_tokens": 1612,
+        "input_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1120
+          },
+          {
+            "modality": "text",
+            "tokens": 492
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 2543,
+        "output_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1680
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 758,
+        "initial_input_tokens": 1739
+      }
+    },
+    {
+      "board": 3,
+      "model": "gemini-nano-banana-2.1",
+      "image_size": "2K",
+      "created_at": "2026-10-28T08:48:14.175329+00:00",
+      "output": "app/src/main/assets/images/board_03.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "cea09b872453221a42e7182b7f0e1cae2ab627abeae243624d50be7509d4b97a",
+      "reference": "app/src/main/assets/images/board_01.png",
+      "reference_sha256": "9edf3dc780955ec39925ba144fe9eaa06dcd233da3f4079f12681e1bd2e7a47c",
+      "prompt": "The attached image is a STYLE AND GRID REFERENCE ONLY. Match its expressive teen characters, editorial anime illustration, lighting, colours, and regular four-by-four panel layout. Create NEW content for the sixteen scenes below; do not repeat the reference scenes. The app crops each cell independently: put vertical gutters at exactly 25%, 50%, and 75% of the image width and horizontal gutters at exactly 25%, 50%, and 75% of the height. Keep every scene inside its own equal square. No title, captions, panel numbers, or outer margins. Every requested scene must be identifiable.\n\nUse case: scientific-educational. Asset: single educational storyboard atlas, exactly 4 columns by 4 rows, exactly 16 equal square panels with thin white gutters, no outer margin. Illustrated English learning scenes for teenagers. Consistent expressive editorial manga-inspired illustration, warm cream light, teal, indigo, coral accents, diverse teen characters. Every panel is its own separate clear scene. No readable words or labels, no watermark; numbers only where needed in clocks or historical dates. Follow the exact row-major order (left to right, top to bottom):\n1. Friends happily sharing picnic in sunny park.\n2. Tea cup with clear dark tea, unopened milk jug pushed aside.\n3. Close portrait of teen giving warm clear smile.\n4. Teens laying out balloons, plates and cake before guests arrive.\n5. Teen cupping hand and whispering secretly into friend's ear.\n6. Teens around table exchanging ideas with pointing gestures and sketches.\n7. Backpack beside assorted books, headphones, keys and sports gear.\n8. Two teens posing in curtained photo booth with strip of funny photos.\n9. One teen offering another choice between walking shoes and bicycle with open palms.\n10. Teen arriving breathless as bus pulls away from stop.\n11. Nervous teen struggling to speak before class, interrupted broken speech bubbles without letters.\n12. Teen with sudden lightbulb expression discovering keys in own pocket.\n13. Friends suddenly inspired by idea for party game, lightbulb over table.\n14. Teen with thought bubble showing planned picnic.\n15. Two teens running fast toward departing train.\n16. People walking inside tunnel from one visible end to the other.\nKeep ALL 16 panels exactly equal size. Strong clear visual meaning, detailed enough to understand context, clean compositions, expressive faces and gestures.",
+      "usage": {
+        "total_tokens": 4819,
+        "total_input_tokens": 1635,
+        "input_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1120
+          },
+          {
+            "modality": "text",
+            "tokens": 515
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 2610,
+        "output_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1680
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 574
+      }
+    },
+    {
+      "board": 4,
+      "model": "gemini-nano-banana-2.1",
+      "image_size": "2K",
+      "created_at": "2026-10-28T08:48:35.570494+00:00",
+      "output": "app/src/main/assets/images/board_04.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "2e4492da511e9b861bf217cd0c0cac4c85c0af8cc6b73888dec8736bb75f1279",
+      "reference": "app/src/main/assets/images/board_01.png",
+      "reference_sha256": "9edf3dc780955ec39925ba144fe9eaa06dcd233da3f4079f12681e1bd2e7a47c",
+      "prompt": "The attached image is a STYLE AND GRID REFERENCE ONLY. Match its expressive teen characters, editorial anime illustration, lighting, colours, and regular four-by-four panel layout. Create NEW content for the sixteen scenes below; do not repeat the reference scenes. The app crops each cell independently: put vertical gutters at exactly 25%, 50%, and 75% of the image width and horizontal gutters at exactly 25%, 50%, and 75% of the height. Keep every scene inside its own equal square. No title, captions, panel numbers, or outer margins. Every requested scene must be identifiable.\n\nUse case: scientific-educational. Asset: single educational storyboard atlas, exactly 4 columns by 4 rows, exactly 16 equal square panels with thin white gutters, no outer margin. Illustrated English learning scenes for teenagers. Consistent expressive editorial manga-inspired illustration, warm cream light, teal, indigo, coral accents, diverse teen characters. Every panel is its own separate clear scene. No readable words or labels, no watermark; numbers only where needed in clocks or historical dates. Follow the exact row-major order (left to right, top to bottom):\n1. Two-part story in one panel: friends promise meeting with handshake, then one friend waits alone at empty cafe table.\n2. Teen pointing decisively at blue bicycle with emphatic thumbs up.\n3. Teen at fork between red and blue bicycles making clear selection.\n4. Teens assembling market stall and laying goods on table.\n5. Crate used as small table with plate and cup on top.\n6. Teen straining to lift large heavy box.\n7. Teen raising hand and waving greeting to friend across street.\n8. Teen suddenly motionless with rigid body upon seeing snake.\n9. Two teens sitting stiffly with empty speech bubbles, uncomfortable silence.\n10. Concerned teen gently asking tearful friend what is wrong.\n11. Quiet group sitting silently then one teen starts talking and others look up.\n12. Glass falling from table and shattering on floor.\n13. Teen rubbing hands together in cold weather.\n14. Teen showing another how a board game works with clear pointing gestures.\n15. Teen sheepishly finding lost glasses on own head.\n16. Sun half disappearing behind large grey cloud.\nKeep ALL 16 panels exactly equal size. Strong clear visual meaning, detailed enough to understand context, clean compositions, expressive faces and gestures.",
+      "usage": {
+        "total_tokens": 4163,
+        "total_input_tokens": 1635,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 515
+          },
+          {
+            "modality": "image",
+            "tokens": 1120
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 2528,
+        "output_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1680
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0
+      }
+    },
+    {
+      "board": 5,
+      "model": "gemini-nano-banana-2.1",
+      "image_size": "2K",
+      "created_at": "2026-10-28T08:49:09.000578+00:00",
+      "output": "app/src/main/assets/images/board_05.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "a8482640c807a539afc0295eca4d9b7e957d37ec298e976dd4950b4b8007282c",
+      "reference": "app/src/main/assets/images/board_01.png",
+      "reference_sha256": "9edf3dc780955ec39925ba144fe9eaa06dcd233da3f4079f12681e1bd2e7a47c",
+      "prompt": "The attached image is a STYLE AND GRID REFERENCE ONLY. Match its expressive teen characters, editorial anime illustration, lighting, colours, and regular four-by-four panel layout. Create NEW content for the sixteen scenes below; do not repeat the reference scenes. The app crops each cell independently: put vertical gutters at exactly 25%, 50%, and 75% of the image width and horizontal gutters at exactly 25%, 50%, and 75% of the height. Keep every scene inside its own equal square. No title, captions, panel numbers, or outer margins. Every requested scene must be identifiable.\n\nUse case: scientific-educational. Asset: single educational storyboard atlas, exactly 4 columns by 4 rows, exactly 16 equal square panels with thin white gutters, no outer margin. Illustrated English learning scenes for teenagers. Consistent expressive editorial manga-inspired illustration, warm cream light, teal, indigo, coral accents, diverse teen characters. Every panel is its own separate clear scene. No readable words or labels, no watermark; numbers only where needed in clocks or historical dates. Follow the exact row-major order (left to right, top to bottom):\n1. Small child proudly riding bicycle without stabilisers, older self remembering.\n2. Dog sneakily taking sausage from picnic plate.\n3. Teen rotating body to look over shoulder at friend.\n4. Two friends pulling each other up over climbing obstacles.\n5. Teens watching large cinema screen with popcorn.\n6. Teen dreaming of future astronaut self standing on moon.\n7. Teen waving on platform at same time as train departs.\n8. Ball rolling downhill with clear motion lines.\n9. Three teens holding funny poses before camera.\n10. Teen viewing family tree linking own portrait to old-fashioned ancestor portrait.\n11. Four-generation family tree with oldest man highlighted and teen at bottom.\n12. Family outside enormous mansion with expensive car.\n13. Four-generation family tree with oldest woman highlighted and teen at bottom.\n14. Young adult with books entering grand university campus.\n15. Stack of split logs beside glowing campfire.\n16. Victorian child writing on small framed dark slate with chalk.\nKeep ALL 16 panels exactly equal size. Strong clear visual meaning, detailed enough to understand context, clean compositions, expressive faces and gestures.",
+      "usage": {
+        "total_tokens": 5880,
+        "total_input_tokens": 1615,
+        "input_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1120
+          },
+          {
+            "modality": "text",
+            "tokens": 495
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 2791,
+        "output_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1680
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 1474
+      }
+    },
+    {
+      "board": 6,
+      "model": "gemini-nano-banana-2.1",
+      "image_size": "2K",
+      "created_at": "2026-10-28T08:49:39.543691+00:00",
+      "output": "app/src/main/assets/images/board_06.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "e61cd86b881b9df7a3ac9b0b2eca0eefb441d59d75dfceea78433cbc687356fb",
+      "reference": "app/src/main/assets/images/board_01.png",
+      "reference_sha256": "9edf3dc780955ec39925ba144fe9eaa06dcd233da3f4079f12681e1bd2e7a47c",
+      "prompt": "The attached image is a STYLE AND GRID REFERENCE ONLY. Match its expressive teen characters, editorial anime illustration, lighting, colours, and regular four-by-four panel layout. Create NEW content for the sixteen scenes below; do not repeat the reference scenes. The app crops each cell independently: put vertical gutters at exactly 25%, 50%, and 75% of the image width and horizontal gutters at exactly 25%, 50%, and 75% of the height. Keep every scene inside its own equal square. No title, captions, panel numbers, or outer margins. Every requested scene must be identifiable.\n\nUse case: scientific-educational. Asset: single educational storyboard atlas, exactly 4 columns by 4 rows, exactly 16 equal square panels with thin white gutters, no outer margin. Illustrated English learning scenes for teenagers. Consistent expressive editorial manga-inspired illustration, warm cream light, teal, indigo, coral accents, diverse teen characters. Every panel is its own separate clear scene. No readable words or labels, no watermark; numbers only where needed in clocks or historical dates. Follow the exact row-major order (left to right, top to bottom):\n1. Toddler beside teenager and elderly adult, toddler highlighted.\n2. Teacher writing simple shapes on large classroom blackboard.\n3. Student filling in workbook exercise with pencil.\n4. Teen runners crossing a finish line on athletics track.\n5. Teen with suitcase looking from moving train window.\n6. Cat leaping unexpectedly out of box startling teen.\n7. Hands typing name into a highlighted blank field on computer screen, no readable text.\n8. Computer screen with large search bar and magnifying glass above list of website cards.\n9. Teen using map on phone to find restaurant with magnifying glass and food icons.\n10. Teen checking map at street fork with highlighted route.\n11. Search bar above one highlighted matching website result card.\n12. Teen pointing to distant blue shoes with nearby red shoes for contrast.\n13. Screen with funnel icon narrowing many ticket cards to two low-price cards.\n14. Cafe facade beside clear five-star rating display.\n15. Teen using app with own avatar shown on screen.\n16. Teen writing star review on phone after cafe visit, coffee cup beside phone.\nKeep ALL 16 panels exactly equal size. Strong clear visual meaning, detailed enough to understand context, clean compositions, expressive faces and gestures.",
+      "usage": {
+        "total_tokens": 5238,
+        "total_input_tokens": 1635,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 515
+          },
+          {
+            "modality": "image",
+            "tokens": 1120
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 2605,
+        "output_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1680
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 998,
+        "initial_input_tokens": 1762
+      }
+    },
+    {
+      "board": 7,
+      "model": "gemini-nano-banana-2.1",
+      "image_size": "2K",
+      "created_at": "2026-10-28T08:50:23.208343+00:00",
+      "output": "app/src/main/assets/images/board_07.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "cdaa5c098b238efc0c326172863a61eb5272ceacb59af96f6522ea18aaf30a83",
+      "reference": "app/src/main/assets/images/board_01.png",
+      "reference_sha256": "9edf3dc780955ec39925ba144fe9eaa06dcd233da3f4079f12681e1bd2e7a47c",
+      "prompt": "The attached image is a STYLE AND GRID REFERENCE ONLY. Match its expressive teen characters, editorial anime illustration, lighting, colours, and regular four-by-four panel layout. Create NEW content for the sixteen scenes below; do not repeat the reference scenes. The app crops each cell independently: put vertical gutters at exactly 25%, 50%, and 75% of the image width and horizontal gutters at exactly 25%, 50%, and 75% of the height. Keep every scene inside its own equal square. No title, captions, panel numbers, or outer margins. Every requested scene must be identifiable.\n\nUse case: scientific-educational. Asset: single educational storyboard atlas, exactly 4 columns by 4 rows, exactly 16 equal square panels with thin white gutters, no outer margin. Illustrated English learning scenes for teenagers. Consistent expressive editorial manga-inspired illustration, warm cream light, teal, indigo, coral accents, diverse teen characters. Every panel is its own separate clear scene. No readable words or labels, no watermark; numbers only where needed in clocks or historical dates. Follow the exact row-major order (left to right, top to bottom):\n1. Food critic tasting dish while taking notes in notebook.\n2. Class discussing rocket and planets shown on central board.\n3. Website with suitcase, plane and map icons.\n4. Teen grimacing over bowl of burnt soup.\n5. Teens looking up in delight at spectacular fireworks.\n6. Magnifying glass picking out a single highlighted token among many blank text lines.\n7. Finger tapping distinctive app tile on smartphone grid.\n8. Collection of electronic devices: phone, tablet and laptop.\n9. Desktop computer with monitor, tower, keyboard and mouse on desk.\n10. Teen opening portable laptop on train table.\n11. Desktop personal computer with separate tower, monitor and keyboard.\n12. Teen holding smartphone with camera view on screen.\n13. Teen drawing with stylus on large tablet.\n14. Screen funnel control removing unwanted grey cards while keeping green cards.\n15. Large over-ear headphones on teen listening to music.\n16. Finger clicking underlined blue link then arrow to new browser page, no readable letters.\nKeep ALL 16 panels exactly equal size. Strong clear visual meaning, detailed enough to understand context, clean compositions, expressive faces and gestures.",
+      "usage": {
+        "total_tokens": 5875,
+        "total_input_tokens": 1620,
+        "input_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1120
+          },
+          {
+            "modality": "text",
+            "tokens": 500
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 3383,
+        "output_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1680
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 872,
+        "initial_input_tokens": 1747
+      }
+    },
+    {
+      "board": 8,
+      "model": "gemini-nano-banana-2.1",
+      "image_size": "2K",
+      "created_at": "2026-10-28T08:50:50.266423+00:00",
+      "output": "app/src/main/assets/images/board_08.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "d82784e882c515fd74e48a851103b9c632733f771d342815b189b88c0157c24d",
+      "reference": "app/src/main/assets/images/board_01.png",
+      "reference_sha256": "9edf3dc780955ec39925ba144fe9eaa06dcd233da3f4079f12681e1bd2e7a47c",
+      "prompt": "The attached image is a STYLE AND GRID REFERENCE ONLY. Match its expressive teen characters, editorial anime illustration, lighting, colours, and regular four-by-four panel layout. Create NEW content for the sixteen scenes below; do not repeat the reference scenes. The app crops each cell independently: put vertical gutters at exactly 25%, 50%, and 75% of the image width and horizontal gutters at exactly 25%, 50%, and 75% of the height. Keep every scene inside its own equal square. No title, captions, panel numbers, or outer margins. Every requested scene must be identifiable.\n\nUse case: scientific-educational. Asset: single educational storyboard atlas, exactly 4 columns by 4 rows, exactly 16 equal square panels with thin white gutters, no outer margin. Illustrated English learning scenes for teenagers. Consistent expressive editorial manga-inspired illustration, warm cream light, teal, indigo, coral accents, diverse teen characters. Every panel is its own separate clear scene. No readable words or labels, no watermark; numbers only where needed in clocks or historical dates. Follow the exact row-major order (left to right, top to bottom):\n1. Close view of hands on computer keyboard.\n2. Phone message containing chain-link icon and website preview card.\n3. Teen speaking into studio microphone.\n4. App profile page with avatar and hobby icons.\n5. Computer screen displaying vivid landscape, screen highlighted.\n6. Browser search page with three clearly separate result cards.\n7. Computer with installation progress bar and app gear icon.\n8. Browser window displaying museum building picture and clock icons.\n9. Teen composing online journal with travel pictures and dated entries.\n10. Phone showing back-and-forth conversation bubbles and group avatars.\n11. Laptop email compose window with envelope and send arrow.\n12. Phone with single incoming speech bubble and friend avatar.\n13. Screen showing shared video platform with multiple creator tiles.\n14. Teen with headphones on bus looking at phone with microphone and episode waveform.\n15. Social feed with one highlighted photo post of a dog.\n16. Connected phone screens displaying shared photos, hearts and conversation bubbles.\nKeep ALL 16 panels exactly equal size. Strong clear visual meaning, detailed enough to understand context, clean compositions, expressive faces and gestures.",
+      "usage": {
+        "total_tokens": 4493,
+        "total_input_tokens": 1615,
+        "input_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1120
+          },
+          {
+            "modality": "text",
+            "tokens": 495
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 2538,
+        "output_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1680
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 340,
+        "initial_input_tokens": 1742
+      }
+    },
+    {
+      "board": 9,
+      "model": "gemini-nano-banana-2.1",
+      "image_size": "2K",
+      "created_at": "2026-10-28T08:51:09.678537+00:00",
+      "output": "app/src/main/assets/images/board_09.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "b33e5cb5aaa4c029565d6e896f9b532f1d35143f8cc3a19aa1e363751598763d",
+      "reference": "app/src/main/assets/images/board_01.png",
+      "reference_sha256": "9edf3dc780955ec39925ba144fe9eaa06dcd233da3f4079f12681e1bd2e7a47c",
+      "prompt": "The attached image is a STYLE AND GRID REFERENCE ONLY. Match its expressive teen characters, editorial anime illustration, lighting, colours, and regular four-by-four panel layout. Create NEW content for the sixteen scenes below; do not repeat the reference scenes. The app crops each cell independently: put vertical gutters at exactly 25%, 50%, and 75% of the image width and horizontal gutters at exactly 25%, 50%, and 75% of the height. Keep every scene inside its own equal square. No title, captions, panel numbers, or outer margins. Every requested scene must be identifiable.\n\nUse case: scientific-educational. Asset: single educational storyboard atlas, exactly 4 columns by 4 rows, exactly 16 equal square panels with thin white gutters, no outer margin. Illustrated English learning scenes for teenagers. Consistent expressive editorial manga-inspired illustration, warm cream light, teal, indigo, coral accents, diverse teen characters. Every panel is its own separate clear scene. No readable words or labels, no watermark; numbers only where needed in clocks or historical dates. Follow the exact row-major order (left to right, top to bottom):\n1. Network diagram of friends' avatar portraits connected by lines around smartphone.\n2. Two teens in different rooms exchanging chat bubbles on phones.\n3. Hand clicking mouse with pointer on large screen button.\n4. Hand plugging headphone cable into laptop port.\n5. Teens making fresh digital drawing on tablet.\n6. Finger moving unwanted photo thumbnail to trash-bin icon.\n7. Cloud sending file downward into phone, clear downward arrow.\n8. Phone sending photo upward to cloud, clear upward arrow.\n9. Printer producing sheet with colourful photograph.\n10. Teen comparing books, browser pages and handwritten notes about old town.\n11. Finger swiping upward on phone revealing lower photo cards.\n12. Teen typing into browser search field with magnifying glass.\n13. Photo leaving one phone along arrow toward friend's phone.\n14. Single photo branching toward several friends' phone screens.\n15. Teens watching live band video on tablet with play icon and broadcast waves.\n16. Finger pressing power button as screen turns black.\nKeep ALL 16 panels exactly equal size. Strong clear visual meaning, detailed enough to understand context, clean compositions, expressive faces and gestures.",
+      "usage": {
+        "total_tokens": 3960,
+        "total_input_tokens": 1619,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 499
+          },
+          {
+            "modality": "image",
+            "tokens": 1120
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 2341,
+        "output_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1680
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0,
+        "initial_input_tokens": 1746
+      }
+    },
+    {
+      "board": 10,
+      "model": "gemini-nano-banana-2.1",
+      "image_size": "2K",
+      "created_at": "2026-10-28T08:51:37.343421+00:00",
+      "output": "app/src/main/assets/images/board_10.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "2e256473b4e27f29903cce4ad6e3be98707daed25bbf0a27b2154dbbad9baad0",
+      "reference": "app/src/main/assets/images/board_01.png",
+      "reference_sha256": "9edf3dc780955ec39925ba144fe9eaa06dcd233da3f4079f12681e1bd2e7a47c",
+      "prompt": "The attached image is a STYLE AND GRID REFERENCE ONLY. Match its expressive teen characters, editorial anime illustration, lighting, colours, and regular four-by-four panel layout. Create NEW content for the sixteen scenes below; do not repeat the reference scenes. The app crops each cell independently: put vertical gutters at exactly 25%, 50%, and 75% of the image width and horizontal gutters at exactly 25%, 50%, and 75% of the height. Keep every scene inside its own equal square. No title, captions, panel numbers, or outer margins. Every requested scene must be identifiable.\n\nUse case: scientific-educational. Asset: single educational storyboard atlas, exactly 4 columns by 4 rows, exactly 16 equal square panels with thin white gutters, no outer margin. Illustrated English learning scenes for teenagers. Consistent expressive editorial manga-inspired illustration, warm cream light, teal, indigo, coral accents, diverse teen characters. Every panel is its own separate clear scene. No readable words or labels, no watermark; numbers only where needed in clocks or historical dates. Follow the exact row-major order (left to right, top to bottom):\n1. Finger pressing power button as computer screen lights up.\n2. Hands actively typing on laptop with emerging chat bubble.\n3. Elegant necklace with tiny blue flower shapes on display.\n4. Steaming tea cup beside teapot and tea leaves.\n5. Teen imagining several possible games in thought bubbles.\n6. Different varieties of fruit arranged for choice.\n7. Cafe owner unlocking own shop while holding keys and apron.\n8. Restaurant menu card with clearly drawn food and drink pictures.\n9. Teen cooling face with handheld folding paper fan.\n10. Teen extending cup of tea toward friend with welcoming gesture.\n11. Museum entrance with ticket gate and coins exchanged for entry ticket.\n12. Small child playing on swing with older teen nearby.\n13. Restaurant table held with reservation card and clock showing six.\n14. Teens playing ball outside in sunny park.\n15. Two teens leaning in for closer look at city map.\n16. Large city skyline with dense buildings, streets and buses.\nKeep ALL 16 panels exactly equal size. Strong clear visual meaning, detailed enough to understand context, clean compositions, expressive faces and gestures.",
+      "usage": {
+        "total_tokens": 5086,
+        "total_input_tokens": 1612,
+        "input_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1120
+          },
+          {
+            "modality": "text",
+            "tokens": 492
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 2590,
+        "output_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1680
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 884,
+        "initial_input_tokens": 1739
+      }
+    },
+    {
+      "board": 11,
+      "model": "gemini-nano-banana-2.1",
+      "image_size": "2K",
+      "created_at": "2026-10-28T08:51:59.872799+00:00",
+      "output": "app/src/main/assets/images/board_11.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "40d313b97dcccdedbfa46c37975e3df2bc937a35d276196f13c94277f063c5b3",
+      "reference": "app/src/main/assets/images/board_01.png",
+      "reference_sha256": "9edf3dc780955ec39925ba144fe9eaa06dcd233da3f4079f12681e1bd2e7a47c",
+      "prompt": "The attached image is a STYLE AND GRID REFERENCE ONLY. Match its expressive teen characters, editorial anime illustration, lighting, colours, and regular four-by-four panel layout. Create NEW content for the sixteen scenes below; do not repeat the reference scenes. The app crops each cell independently: put vertical gutters at exactly 25%, 50%, and 75% of the image width and horizontal gutters at exactly 25%, 50%, and 75% of the height. Keep every scene inside its own equal square. No title, captions, panel numbers, or outer margins. Every requested scene must be identifiable.\n\nUse case: scientific-educational. Asset: single educational storyboard atlas, exactly 4 columns by 4 rows, exactly 16 equal square panels with thin white gutters, no outer margin. Illustrated English learning scenes for teenagers. Consistent expressive editorial manga-inspired illustration, warm cream light, teal, indigo, coral accents, diverse teen characters. Every panel is its own separate clear scene. No readable words or labels, no watermark; numbers only where needed in clocks or historical dates. Follow the exact row-major order (left to right, top to bottom):\n1. Singer on stage surrounded by excited fans with cameras.\n2. Tourists admiring recognisable Tower Bridge.\n3. London Eye observation wheel with tourists queuing below.\n4. People meeting around table in city office with charts.\n5. Map outline of UK with London marked by star and small parliament building.\n6. Timeline from 1900 to 2000 with one large arc spanning interval.\n7. People sharing diverse foods, music instruments and artworks at community gathering.\n8. Elected representatives debating across benches in parliament chamber.\n9. Sports team with small different country flags on jerseys standing together.\n10. Friendly cluster of homes around local park and small cafe.\n11. Teen pointing to landmarks in city picture while speaking to friend.\n12. Clock tower with oversized clock face highlighted.\n13. Calendar strip with exactly seven daily squares and check mark.\n14. Person beside current London home with thought bubble showing childhood in Rome and travel arrow.\n15. Ancient Roman soldier in historically recognisable helmet and armour.\n16. Five apples with exactly two red and three green, red pair highlighted as subset.\nKeep ALL 16 panels exactly equal size. Strong clear visual meaning, detailed enough to understand context, clean compositions, expressive faces and gestures.",
+      "usage": {
+        "total_tokens": 4188,
+        "total_input_tokens": 1637,
+        "input_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1120
+          },
+          {
+            "modality": "text",
+            "tokens": 517
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 2551,
+        "output_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1680
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0
+      }
+    },
+    {
+      "board": 12,
+      "model": "gemini-nano-banana-2.1",
+      "image_size": "2K",
+      "created_at": "2026-10-28T08:52:24.681966+00:00",
+      "output": "app/src/main/assets/images/board_12.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "ae7dea511701d78200023fa5ba715d2ca9d65c1523826fb351d1db563617158c",
+      "reference": "app/src/main/assets/images/board_01.png",
+      "reference_sha256": "9edf3dc780955ec39925ba144fe9eaa06dcd233da3f4079f12681e1bd2e7a47c",
+      "prompt": "The attached image is a STYLE AND GRID REFERENCE ONLY. Match its expressive teen characters, editorial anime illustration, lighting, colours, and regular four-by-four panel layout. Create NEW content for the sixteen scenes below; do not repeat the reference scenes. The app crops each cell independently: put vertical gutters at exactly 25%, 50%, and 75% of the image width and horizontal gutters at exactly 25%, 50%, and 75% of the height. Keep every scene inside its own equal square. No title, captions, panel numbers, or outer margins. Every requested scene must be identifiable.\n\nUse case: scientific-educational. Asset: single educational storyboard atlas, exactly 4 columns by 4 rows, exactly 16 equal square panels with thin white gutters, no outer margin. Illustrated English learning scenes for teenagers. Consistent expressive editorial manga-inspired illustration, warm cream light, teal, indigo, coral accents, diverse teen characters. Every panel is its own separate clear scene. No readable words or labels, no watermark; numbers only where needed in clocks or historical dates. Follow the exact row-major order (left to right, top to bottom):\n1. Large bronze bell swinging with sound waves.\n2. Three museum buildings with overwhelmingly largest crowd at one highlighted museum.\n3. Hotel window with sleeping traveller, moon and stars outside.\n4. Travellers relaxing in hotel room with suitcases unpacked.\n5. Tall slender observation tower rising high above lower city buildings.\n6. Map divided into areas with one mountain-and-forest region highlighted.\n7. London underground train entering platform with recognisable roundel without lettering.\n8. Teen girl with school backpack riding bicycle.\n9. Teen tracing research note back to open reference book with connecting arrow.\n10. Outdoor music festival with stage, crowd, flags and tents.\n11. Local teen guiding visitor past London bus and landmarks.\n12. Friends taking selfie together with phone camera facing their own faces.\n13. A quiet decorative London park scene, no people.\n14. A quiet decorative London park scene, no people.\n15. A quiet decorative London park scene, no people.\n16. A quiet decorative London park scene, no people.\nKeep ALL 16 panels exactly equal size. Strong clear visual meaning, detailed enough to understand context, clean compositions, expressive faces and gestures.",
+      "usage": {
+        "total_tokens": 4272,
+        "total_input_tokens": 1623,
+        "input_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1120
+          },
+          {
+            "modality": "text",
+            "tokens": 503
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 2649,
+        "output_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1680
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 0
+      }
+    },
+    {
+      "board": 4,
+      "model": "gemini-nano-banana-2.1",
+      "image_size": "2K",
+      "created_at": "2026-10-28T08:53:45.855687+00:00",
+      "output": ".tools/illustration-candidates/board_04.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "8b917cb38a18fdff2585c5834ec063268bdd2efd7d88a4c17c3d73b46d5a9d19",
+      "reference": "app/src/main/assets/images/board_04.png",
+      "reference_sha256": "2e4492da511e9b861bf217cd0c0cac4c85c0af8cc6b73888dec8736bb75f1279",
+      "prompt": "Edit the attached educational atlas. Preserve its exact 4 by 4 grid, square image size, thin white gutters, illustration style, and all fifteen panels OTHER THAN the TOP LEFT panel. Keep the other fifteen scenes unchanged and in the same positions.\n\nReplace ONLY the TOP LEFT panel (row 1, column 1) to clearly teach \"let someone down\": a very disappointed teenage boy is waiting ALONE at a cafe table, with an EMPTY chair opposite him and a cold untouched drink. Above him, a small clearly contained memory bubble shows his friend making a promise to meet him (the two friends shaking hands). The main scene must be the disappointed teen alone with the empty chair; the handshake must appear only inside the small memory bubble. This is a broken promise, not a scene of two friends happily meeting.\n\nThe replacement must fit entirely inside the original top-left square. No new panel borders inside that square, no extra grid columns/rows, no captions or labels. Return the full atlas with exactly sixteen equal cells.\n",
+      "usage": {
+        "total_tokens": 3963,
+        "total_input_tokens": 1331,
+        "input_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1120
+          },
+          {
+            "modality": "text",
+            "tokens": 211
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 2441,
+        "output_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1680
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 191
+      },
+      "review": "Accepted: broken-promise scene corrected; remaining fifteen cells preserved",
+      "accepted_output": "app/src/main/assets/images/board_04.png"
+    },
+    {
+      "board": 5,
+      "model": "gemini-nano-banana-2.1",
+      "image_size": "2K",
+      "created_at": "2026-10-28T08:54:21.296162+00:00",
+      "output": ".tools/illustration-candidates/board_05-attempt-1.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "1ca3828f36c3ab6b8eab5a7423bfa039d75a2acc95941ab473816bff507f5e61",
+      "reference": "app/src/main/assets/images/board_05.png",
+      "reference_sha256": "a8482640c807a539afc0295eca4d9b7e957d37ec298e976dd4950b4b8007282c",
+      "prompt": "Edit the attached educational atlas. Preserve its exact 4 by 4 grid, square image size, white gutters, illustration style, and all fourteen panels OTHER THAN row 3 column 3 and row 4 column 1. Keep the other fourteen scenes unchanged and in their original positions.\n\nReplace row 3 column 3 (the great-grandfather cell): show a clean simple family diagram consisting of EXACTLY FOUR portraits, one beneath another, with one unbroken parent-to-child connecting line down the middle. From TOP to BOTTOM: a very elderly man aged about 90 (great-grandfather), his daughter aged about 65 (grandmother), her daughter aged about 40 (mother), and her teenage son aged about 15. Highlight ONLY the TOP portrait with a warm golden outline. FOUR GENERATIONS, not three. Do not add siblings, branching, or extra portraits. Each portrait can be small to fit all four levels clearly.\n\nReplace row 4 column 1 (the great-grandmother cell): use the same simple FOUR-portrait vertical diagram, from TOP to BOTTOM: a very elderly woman aged about 90 (great-grandmother), her son aged about 65 (grandfather), his daughter aged about 40 (mother), and her teenage daughter aged about 15. Highlight ONLY the TOP portrait with a warm golden outline. FOUR GENERATIONS, not three. Do not add siblings, branching, or extra portraits.\n\nKeep each diagram completely inside its original cell. No words or labels are required. No extra grid columns or rows. Return the full square atlas with exactly sixteen equal cells.\n",
+      "usage": {
+        "total_tokens": 4878,
+        "total_input_tokens": 1454,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 334
+          },
+          {
+            "modality": "image",
+            "tokens": 1120
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 2870,
+        "output_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1680
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 554,
+        "initial_input_tokens": 1581
+      },
+      "review": "Rejected: both diagrams still had only three generations"
+    },
+    {
+      "board": 5,
+      "model": "gemini-nano-banana-2.1",
+      "image_size": "2K",
+      "created_at": "2026-10-28T08:57:40.713124+00:00",
+      "output": ".tools/illustration-candidates/board_05-attempt-2.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "b843d2652e61164edac2be433524c9c6530498f5fb22a2f17a55c8c72fe75cc7",
+      "reference": "app/src/main/assets/images/board_05.png",
+      "reference_sha256": "a8482640c807a539afc0295eca4d9b7e957d37ec298e976dd4950b4b8007282c",
+      "prompt": "Edit ONLY the two family-tree cells of this 4x4 vocabulary atlas: row 3 column 3, and row 4 column 1. Preserve the other fourteen cells, their content, their style, and the exact 4x4 outer atlas layout.\n\nIMPORTANT: each replacement family diagram must contain FOUR portraits, not three. Use a simple 2x2 arrangement of portraits inside each cell so ALL FOUR fit clearly. These are framed small face portraits connected by arrows, not extra comic panels. Do not omit the middle-aged parent.\n\nRow 3 column 3 (great-grandfather):\n- Top-left portrait: man aged 90 with grey hair and moustache, GOLD frame.\n- Top-right portrait: his daughter aged 65, grey-haired grandmother.\n- Bottom-right portrait: her daughter aged 40, brown-haired MOTHER.\n- Bottom-left portrait: her teenage son aged 15, brown-haired TEEN.\nConnect top-left -> top-right -> bottom-right -> bottom-left. EXACTLY FOUR faces in this cell. Highlight only the great-grandfather's top-left frame. This chain represents great-grandfather, grandmother, mother, me.\n\nRow 4 column 1 (great-grandmother):\n- Top-left portrait: woman aged 90 with white hair and glasses, GOLD frame.\n- Top-right portrait: her son aged 65, grey-haired grandfather.\n- Bottom-right portrait: his daughter aged 40, brown-haired MOTHER.\n- Bottom-left portrait: her teenage daughter aged 15, brown-haired TEEN.\nConnect top-left -> top-right -> bottom-right -> bottom-left. EXACTLY FOUR faces in this cell. Highlight only the great-grandmother's top-left frame. This chain represents great-grandmother, grandfather, mother, me.\n\nMake the faces and connection arrows clearly legible. If helpful, tiny English labels \"90\", \"65\", \"40\", \"15\" may appear under the respective portraits. Each of the two replacement cells MUST show four separate age groups. Return the FULL square atlas with exactly sixteen equal vocabulary cells. No other changes.\n",
+      "usage": {
+        "total_tokens": 4992,
+        "total_input_tokens": 1593,
+        "input_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1120
+          },
+          {
+            "modality": "text",
+            "tokens": 473
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 3117,
+        "output_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1680
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 282,
+        "initial_input_tokens": 1720
+      },
+      "review": "Great-grandfather corrected; great-grandmother requires a further single-cell correction"
+    },
+    {
+      "board": 5,
+      "model": "gemini-nano-banana-2.1",
+      "image_size": "2K",
+      "created_at": "2026-10-28T09:00:26.606954+00:00",
+      "output": ".tools/illustration-candidates/board_05-attempt-3.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "22a7d944ca0f99862b06412b578b48def72c7a03342cf95a77501f71316c4c22",
+      "reference": "app/src/main/assets/images/board_05.png",
+      "reference_sha256": "b843d2652e61164edac2be433524c9c6530498f5fb22a2f17a55c8c72fe75cc7",
+      "prompt": "Edit ONLY the BOTTOM LEFT square of this 4x4 atlas (row 4, column 1). Preserve all fifteen other squares exactly, including the great-grandfather diagram in row 3 column 3. Preserve the full square canvas and the exact outer 4x4 grid.\n\nCOMPLETELY REMOVE the existing family diagram from the bottom-left cell. Begin that cell again on a plain warm cream background. Replace it with exactly FOUR small framed portraits total, in a neat 2 by 2 arrangement INSIDE that single cell:\n\nTOP LEFT: one great-grandmother, an elderly woman about 90, grey bun and glasses, highlighted with a gold frame.\nTOP RIGHT: her son, a grandfather about 65, grey hair and glasses, plain brown frame.\nBOTTOM RIGHT: his daughter, a mother about 40, brown hair, plain brown frame.\nBOTTOM LEFT: her daughter, a teenage girl about 15, ponytail, plain brown frame.\n\nConnect the four frames with just THREE arrows: top-left to top-right, top-right down to bottom-right, bottom-right left to bottom-left. Exactly one person per frame. Exactly FOUR people/faces in this cell. Do not add a fifth portrait, do not repeat a face, do not put another portrait above or below the 2x2 arrangement. No labels, no ages, no words. Keep all four portraits comfortably inside this cell with ample cream space around them.\n\nThis should be a clean four-person parent-to-child chain, not a branching family tree. Return the FULL original atlas with only this one cell corrected.\n",
+      "usage": {
+        "total_tokens": 4684,
+        "total_input_tokens": 1463,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 343
+          },
+          {
+            "modality": "image",
+            "tokens": 1120
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 2600,
+        "output_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1680
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 621,
+        "initial_input_tokens": 1590
+      },
+      "review": "Superseded: family diagram arrows remained ambiguous in the app; replacing this cell with a natural four-generation family scene"
+    },
+    {
+      "board": 5,
+      "model": "gemini-nano-banana-2.1",
+      "image_size": "2K",
+      "created_at": "2026-10-28T09:08:31.309858+00:00",
+      "output": ".tools/illustration-candidates/board_05-attempt-4.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "a2c4a34707393a234a2115bb228e6d2e3f1c365363836f14aca8fab502e2f7be",
+      "reference": "app/src/main/assets/images/board_05.png",
+      "reference_sha256": "22a7d944ca0f99862b06412b578b48def72c7a03342cf95a77501f71316c4c22",
+      "prompt": "Edit ONLY the BOTTOM LEFT square of the attached 4x4 vocabulary atlas (row 4, column 1). Preserve all fifteen other squares and the exact 4x4 outer grid.\n\nErase the entire family-tree DIAGRAM in the bottom-left square, including ALL its frames and arrows. Replace it with a natural warm illustrated family portrait in the same teen-friendly anime/editorial style as the other scenes. No diagrams, no frames, no arrows, no numbers, no captions.\n\nShow FOUR people together in a living room, from left to right:\n1. A teenage GIRL about 15, with a ponytail and green hoodie.\n2. Her MOTHER about 40, a woman with brown shoulder-length hair and blue cardigan.\n3. Her GRANDFATHER about 65, a grey-haired man with a short grey beard, wearing a brown jumper.\n4. Her GREAT-GRANDMOTHER about 90, a very elderly woman with white hair in a bun, round glasses, a walking stick, and a purple cardigan.\n\nThe grandfather has his hand affectionately on his very elderly MOTHER'S shoulder. The teen is smiling toward her great-grandmother. The great-grandmother must be clearly the OLDEST person and the visual focus, with a subtle warm golden glow behind her. Four different ages: teen, middle-aged woman, older man, very elderly woman. Keep all four faces visible inside this one square.\n\nReturn the FULL sixteen-cell atlas with ONLY this bottom-left scene replaced. Do not draw ANY family-tree diagram in that cell.\n",
+      "usage": {
+        "total_tokens": 3827,
+        "total_input_tokens": 1454,
+        "input_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1120
+          },
+          {
+            "modality": "text",
+            "tokens": 334
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 2158,
+        "output_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1680
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 215,
+        "initial_input_tokens": 1581
+      },
+      "review": "Rejected in screen review: family scene merged the first two cells of the bottom row"
+    },
+    {
+      "board": 5,
+      "model": "gemini-nano-banana-2.1",
+      "image_size": "2K",
+      "created_at": "2026-10-28T09:17:20.438882+00:00",
+      "output": ".tools/illustration-candidates/board_05.png",
+      "dimensions": [
+        2048,
+        2048
+      ],
+      "sha256": "4dc90832a9fd2e343231ad97d338501b84c34db491897ccbf60ebbaf09168a00",
+      "reference": "app/src/main/assets/images/board_05.png",
+      "reference_sha256": "a2c4a34707393a234a2115bb228e6d2e3f1c365363836f14aca8fab502e2f7be",
+      "prompt": "Fix ONLY THE BOTTOM ROW of the attached educational atlas. Keep the top twelve square scenes unchanged. The result MUST be exactly a FOUR-COLUMN by FOUR-ROW grid: SIXTEEN equal square panels. The attached image has a bad bottom row because its first scene spans two columns. FIX THIS.\n\nThe bottom row must have FOUR SEPARATE EQUAL SQUARE PANELS, each exactly one quarter of the whole image width. Put clear straight WHITE vertical gutters at x=25%, x=50%, and x=75% of the whole image width, continuing THROUGH THE ENTIRE BOTTOM ROW. Absolutely no wide panels and no merged cells.\n\nBOTTOM ROW, left to right:\n1. GREAT-GRANDMOTHER: a close-up warm portrait of a very elderly woman aged about 90, white hair in a bun, round glasses, purple cardigan and walking stick. Beside her is her SON aged about 65, a grey-haired MAN with a short grey beard and brown jumper, gently supporting her arm. Exactly TWO people in this square, not four. No diagram, no frames, no arrows. Focus on the great-grandmother's elderly face and her older adult son. Both faces must fit within this one square.\n2. UNIVERSITY: a young adult male student in a green hoodie carrying several textbooks under a recognisable university's stone archway. This is a separate university/campus scene, not more family members. Restore this missing panel.\n3. FIREWOOD: a clear stack of split logs beside a small glowing campfire at night, with friends sitting nearby. The logs must be visible.\n4. SLATE: a Victorian-era boy using chalk to write simple marks on a small framed black slate at a wooden school desk, in an old classroom.\n\nDo not let people, backgrounds, or scenery cross the white gutters. All four bottom panels must be independent SQUARES. Match the existing warm anime/editorial teen illustration style. Return the FULL square atlas with the original top twelve panels and this corrected FOUR-PANEL bottom row. Exactly SIXTEEN panels in total.\n",
+      "usage": {
+        "total_tokens": 5168,
+        "total_input_tokens": 1555,
+        "input_tokens_by_modality": [
+          {
+            "modality": "text",
+            "tokens": 435
+          },
+          {
+            "modality": "image",
+            "tokens": 1120
+          }
+        ],
+        "total_cached_tokens": 0,
+        "total_output_tokens": 2730,
+        "output_tokens_by_modality": [
+          {
+            "modality": "image",
+            "tokens": 1680
+          }
+        ],
+        "total_tool_use_tokens": 0,
+        "total_thought_tokens": 883,
+        "initial_input_tokens": 1682
+      },
+      "review": "Accepted: all sixteen cells restored, university scene present, great-grandmother and her older son shown in a separate square",
+      "accepted_output": "app/src/main/assets/images/board_05.png"
+    }
+  ],
+  "final_assets": [
+    {
+      "path": "app/src/main/assets/images/board_01.png",
+      "sha256": "9edf3dc780955ec39925ba144fe9eaa06dcd233da3f4079f12681e1bd2e7a47c"
+    },
+    {
+      "path": "app/src/main/assets/images/board_02.png",
+      "sha256": "9a1b51fdfe699365e6799756179f4cee6369a7cd24a0d05a8f4f421969f623c6"
+    },
+    {
+      "path": "app/src/main/assets/images/board_03.png",
+      "sha256": "cea09b872453221a42e7182b7f0e1cae2ab627abeae243624d50be7509d4b97a"
+    },
+    {
+      "path": "app/src/main/assets/images/board_04.png",
+      "sha256": "8b917cb38a18fdff2585c5834ec063268bdd2efd7d88a4c17c3d73b46d5a9d19"
+    },
+    {
+      "path": "app/src/main/assets/images/board_05.png",
+      "sha256": "4dc90832a9fd2e343231ad97d338501b84c34db491897ccbf60ebbaf09168a00"
+    },
+    {
+      "path": "app/src/main/assets/images/board_06.png",
+      "sha256": "e61cd86b881b9df7a3ac9b0b2eca0eefb441d59d75dfceea78433cbc687356fb"
+    },
+    {
+      "path": "app/src/main/assets/images/board_07.png",
+      "sha256": "cdaa5c098b238efc0c326172863a61eb5272ceacb59af96f6522ea18aaf30a83"
+    },
+    {
+      "path": "app/src/main/assets/images/board_08.png",
+      "sha256": "d82784e882c515fd74e48a851103b9c632733f771d342815b189b88c0157c24d"
+    },
+    {
+      "path": "app/src/main/assets/images/board_09.png",
+      "sha256": "b33e5cb5aaa4c029565d6e896f9b532f1d35143f8cc3a19aa1e363751598763d"
+    },
+    {
+      "path": "app/src/main/assets/images/board_10.png",
+      "sha256": "2e256473b4e27f29903cce4ad6e3be98707daed25bbf0a27b2154dbbad9baad0"
+    },
+    {
+      "path": "app/src/main/assets/images/board_11.png",
+      "sha256": "40d313b97dcccdedbfa46c37975e3df2bc937a35d276196f13c94277f063c5b3"
+    },
+    {
+      "path": "app/src/main/assets/images/board_12.png",
+      "sha256": "ae7dea511701d78200023fa5ba715d2ca9d65c1523826fb351d1db563617158c"
+    }
+  ]
+}

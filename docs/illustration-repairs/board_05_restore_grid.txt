@@ -1,0 +1,11 @@
+Fix ONLY THE BOTTOM ROW of the attached educational atlas. Keep the top twelve square scenes unchanged. The result MUST be exactly a FOUR-COLUMN by FOUR-ROW grid: SIXTEEN equal square panels. The attached image has a bad bottom row because its first scene spans two columns. FIX THIS.
+
+The bottom row must have FOUR SEPARATE EQUAL SQUARE PANELS, each exactly one quarter of the whole image width. Put clear straight WHITE vertical gutters at x=25%, x=50%, and x=75% of the whole image width, continuing THROUGH THE ENTIRE BOTTOM ROW. Absolutely no wide panels and no merged cells.
+
+BOTTOM ROW, left to right:
+1. GREAT-GRANDMOTHER: a close-up warm portrait of a very elderly woman aged about 90, white hair in a bun, round glasses, purple cardigan and walking stick. Beside her is her SON aged about 65, a grey-haired MAN with a short grey beard and brown jumper, gently supporting her arm. Exactly TWO people in this square, not four. No diagram, no frames, no arrows. Focus on the great-grandmother's elderly face and her older adult son. Both faces must fit within this one square.
+2. UNIVERSITY: a young adult male student in a green hoodie carrying several textbooks under a recognisable university's stone archway. This is a separate university/campus scene, not more family members. Restore this missing panel.
+3. FIREWOOD: a clear stack of split logs beside a small glowing campfire at night, with friends sitting nearby. The logs must be visible.
+4. SLATE: a Victorian-era boy using chalk to write simple marks on a small framed black slate at a wooden school desk, in an old classroom.
+
+Do not let people, backgrounds, or scenery cross the white gutters. All four bottom panels must be independent SQUARES. Match the existing warm anime/editorial teen illustration style. Return the FULL square atlas with the original top twelve panels and this corrected FOUR-PANEL bottom row. Exactly SIXTEEN panels in total.

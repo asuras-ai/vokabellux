@@ -1,0 +1,12 @@
+Edit ONLY the BOTTOM LEFT square of this 4x4 atlas (row 4, column 1). Preserve all fifteen other squares exactly, including the great-grandfather diagram in row 3 column 3. Preserve the full square canvas and the exact outer 4x4 grid.
+
+COMPLETELY REMOVE the existing family diagram from the bottom-left cell. Begin that cell again on a plain warm cream background. Replace it with exactly FOUR small framed portraits total, in a neat 2 by 2 arrangement INSIDE that single cell:
+
+TOP LEFT: one great-grandmother, an elderly woman about 90, grey bun and glasses, highlighted with a gold frame.
+TOP RIGHT: her son, a grandfather about 65, grey hair and glasses, plain brown frame.
+BOTTOM RIGHT: his daughter, a mother about 40, brown hair, plain brown frame.
+BOTTOM LEFT: her daughter, a teenage girl about 15, ponytail, plain brown frame.
+
+Connect the four frames with just THREE arrows: top-left to top-right, top-right down to bottom-right, bottom-right left to bottom-left. Exactly one person per frame. Exactly FOUR people/faces in this cell. Do not add a fifth portrait, do not repeat a face, do not put another portrait above or below the 2x2 arrangement. No labels, no ages, no words. Keep all four portraits comfortably inside this cell with ample cream space around them.
+
+This should be a clean four-person parent-to-child chain, not a branching family tree. Return the FULL original atlas with only this one cell corrected.
